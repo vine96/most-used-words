@@ -1,4 +1,5 @@
 # most-used-words
+Aplicação Desktop com JavaScript, Electron JS e Vue JS que consome os arquivos de legenda e faz o cálculo de palavras mais usadas.
 
 ## Project setup
 ```
